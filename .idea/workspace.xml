@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="640cf186-8501-445c-8504-4dedc6359558" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/A_PrimeNumberNoConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/B_PrimeNumberWithConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/C_PrimeNumberWithConcurrencyDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/D_PrimeNumberWithConcurrencyHoldingThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/E_PrimeNumberWithConcurrencyJoiningThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/F_Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/G_LockInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/H_PrimeNumberWithSchedulerThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/I_PrimeNumberWithThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/J_CallableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/nikks/PrimeNumberUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WkjHthbkNEuOe8zkpgMSqF5krJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/nikks/PROJECTS/JAVA/JavaConcurrency",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/nikks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/nikks" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.nikks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.J_CallableExample">
+    <configuration name="F_Synchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.nikks.F_Synchronization" />
+      <module name="JavaConcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.nikks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_LockInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.nikks.G_LockInterface" />
+      <module name="JavaConcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.nikks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_PrimeNumberWithSchedulerThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.nikks.H_PrimeNumberWithSchedulerThreadPool" />
+      <module name="JavaConcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.nikks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I_PrimeNumberWithThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.nikks.I_PrimeNumberWithThreadPool" />
+      <module name="JavaConcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.nikks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J_CallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.nikks.J_CallableExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.nikks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.J_CallableExample" />
+        <item itemvalue="Application.H_PrimeNumberWithSchedulerThreadPool" />
+        <item itemvalue="Application.I_PrimeNumberWithThreadPool" />
+        <item itemvalue="Application.G_LockInterface" />
+        <item itemvalue="Application.F_Synchronization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="640cf186-8501-445c-8504-4dedc6359558" name="Changes" comment="" />
+      <created>1697283388571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697283388571</updated>
+      <workItem from="1697283390080" duration="4418000" />
+      <workItem from="1697292969910" duration="1074000" />
+      <workItem from="1697332921098" duration="5796000" />
+      <workItem from="1697374085679" duration="621000" />
+      <workItem from="1697424025561" duration="609000" />
+      <workItem from="1697622145414" duration="1090000" />
+      <workItem from="1697623697127" duration="4440000" />
+      <workItem from="1697737187564" duration="3921000" />
+      <workItem from="1697798620947" duration="32000" />
+      <workItem from="1697801018417" duration="7082000" />
+      <workItem from="1697897876878" duration="408000" />
+      <workItem from="1697898295438" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
